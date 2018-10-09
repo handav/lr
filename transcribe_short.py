@@ -1,4 +1,5 @@
 #https://cloud.google.com/speech-to-text/docs/async-time-offsets
+#https://googleapis.github.io/google-cloud-python/latest/storage/blobs.html#google.cloud.storage.blob.Blob
 
 import io
 import os
@@ -30,20 +31,21 @@ def process(filename):
     # print frame_rate
 
     # Loads the audio into memory
-    with io.open(file_name, 'rb') as audio_file:
-        content = audio_file.read()
-        audio = types.RecognitionAudio(content=content)
+    #with io.open(file_name, 'rb') as audio_file:
+    #content = audio_file.read()
+    audio = types.RecognitionAudio(uri=file_name)
 
     config = types.RecognitionConfig(
         encoding=enums.RecognitionConfig.AudioEncoding.FLAC,
-        sample_rate_hertz=44000,
         language_code='en-US',
+        profanity_filter=True,
         enable_automatic_punctuation=True,
         enable_word_time_offsets=True)
 
     # Detects speech in the audio file
-    response = client.recognize(config, audio)
-
+    operation = client.long_running_recognize(config, audio)
+    print('Waiting for operation to complete...')
+    response = operation.result(timeout=90)
     for result in response.results:
         print('Transcript: {}'.format(result.alternatives[0].transcript))
         print('Confidence: {}'.format(result.alternatives[0].confidence))
@@ -56,18 +58,23 @@ def process(filename):
                 word,
                 start_time.seconds + start_time.nanos * 1e-9,
                 end_time.seconds + end_time.nanos * 1e-9))
-
+    print response.results
+    # recognized_text = 'Transcribed Text: \n'
+    # for i in range(len(response.results)):
+    #     recognized_text += response.results
     with open(transcript_file, 'w') as ts:
-        ts.write(response.results)
+        for r in response.results:
+            ts.write("%s\n" % r)
 
 for blob in bucket.list_blobs():
     try:
         #print blob.id
-        if 'Adam Cayton' in blob.id:
-            print blob.id
-        #     transcript_path = transcripts + filename
-        #     if os.path.isfile(transcript_path) == False:
-        #         process(filename)
+        if 'mono' in blob.id:
+            fn = blob.id.split('conan/')[1].split('.flac')[0]+'.flac'
+            print fn
+            transcript_path = transcripts + fn.split('.flac')[0]+ '.txt'
+            if os.path.isfile(transcript_path) == False:
+                process(fn)
     except UnicodeEncodeError:
         print 'unicode error'
         pass
