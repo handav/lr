@@ -1,4 +1,6 @@
 # look to housing problem to figure out concatenation
+# write out full statements and punchlines
+# write out timing
 
 import os
 
@@ -13,9 +15,11 @@ def is_end(word):
         return True
     return False
 
-for f in os.listdir('transcripts/'):
-    if 'json' in f:
-        full_path = 'transcripts/' + f
+for f in os.listdir('transcripts/Meyers/'):
+    if 'Zainab' in f:
+    #if 'txt' in f:
+        full_path = 'transcripts/Meyers/' + f
+        print full_path
         with open(full_path, 'rb') as transcript:
             ts = transcript.read()
         ts_split = ts.split('\n')
@@ -23,10 +27,10 @@ for f in os.listdir('transcripts/'):
         for i, s in enumerate(ts_split):
             # NEW SECTION
             if 'alternatives' in s:
+                print ts_split[i+1]
                 if counter > 0:
                     chunks.append(new_chunk)
                 counter += 1
-                print counter
                 new_chunk = {}
                 new_chunk['words'] = []
             if 'words' in s:
@@ -49,12 +53,13 @@ for f in os.listdir('transcripts/'):
                 new_chunk['words'].append(new_word)
                 new_word = {}
 
-for i, c in enumerate(chunks):
-    for w in c['words']:
-        if is_end(w['word']):
-            print '        STATEMENT'
-    print '       PUNCHLINE'
-    print '\n'
+# for i, c in enumerate(chunks):
+#     print c
+#     for w in c['words']:
+#         if is_end(w['word']):
+#             print '        STATEMENT'
+#     print '       PUNCHLINE'
+#     print '\n'
 
 
 
