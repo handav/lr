@@ -20,7 +20,7 @@ transcripts = '/Users/hannahdavis/Documents/LaughingRoom/Text/transcripts/'
 
 def process(filename):
     # The name of the audio file to transcribe
-    file_name = 'gs://laughingroomstorage/fallon/' + filename
+    file_name = 'gs://laughingroomstorage/specials/' + filename
     transcript_file = transcripts + filename.split('.flac')[0]+ '.txt'
     
     audio = types.RecognitionAudio(uri=file_name)
@@ -35,7 +35,7 @@ def process(filename):
     # Detects speech in the audio file
     operation = client.long_running_recognize(config, audio)
     print('Waiting for operation to complete...')
-    response = operation.result(timeout=1000)
+    response = operation.result(timeout=100000)
     for result in response.results:
         print('Transcript: {}'.format(result.alternatives[0].transcript))
         print('Confidence: {}'.format(result.alternatives[0].confidence))
@@ -57,11 +57,11 @@ def process(filename):
             ts.write("%s\n" % r)
 
 for blob in bucket.list_blobs():
-    if 'fallon' in blob.id:
+    if 'specials' in blob.id:
         try:
             print blob.id
             if 'mono' in blob.id:
-                fn = blob.id.split('fallon/')[1].split('.flac')[0]+'.flac'
+                fn = blob.id.split('specials/')[1].split('.flac')[0]+'.flac'
                 print fn
                 transcript_path = transcripts + fn.split('.flac')[0]+ '.txt'
                 if os.path.isfile(transcript_path) == False:
