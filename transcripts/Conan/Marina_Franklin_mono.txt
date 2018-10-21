@@ -1,0 +1,6328 @@
+alternatives {
+  transcript: "I haven\'t been laid in a while."
+  confidence: 0.958119809628
+  words {
+    start_time {
+    }
+    end_time {
+      nanos: 200000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      nanos: 200000000
+    }
+    end_time {
+      nanos: 500000000
+    }
+    word: "haven\'t"
+  }
+  words {
+    start_time {
+      nanos: 500000000
+    }
+    end_time {
+      nanos: 600000000
+    }
+    word: "been"
+  }
+  words {
+    start_time {
+      nanos: 600000000
+    }
+    end_time {
+      nanos: 800000000
+    }
+    word: "laid"
+  }
+  words {
+    start_time {
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 1
+    }
+    word: "in"
+  }
+  words {
+    start_time {
+      seconds: 1
+    }
+    end_time {
+      seconds: 1
+      nanos: 100000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 1
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 1
+      nanos: 200000000
+    }
+    word: "while."
+  }
+}
+
+alternatives {
+  transcript: " I know that\'s a lot to tell an audience. That doesn\'t know me but you know, if I don\'t tell you, how am I going to get laid?"
+  confidence: 0.945877671242
+  words {
+    start_time {
+      seconds: 3
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 3
+      nanos: 100000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 3
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 3
+      nanos: 500000000
+    }
+    word: "know"
+  }
+  words {
+    start_time {
+      seconds: 3
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 3
+      nanos: 700000000
+    }
+    word: "that\'s"
+  }
+  words {
+    start_time {
+      seconds: 3
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 4
+      nanos: 500000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 4
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 4
+      nanos: 600000000
+    }
+    word: "lot"
+  }
+  words {
+    start_time {
+      seconds: 4
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 4
+      nanos: 800000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 4
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 5
+    }
+    word: "tell"
+  }
+  words {
+    start_time {
+      seconds: 5
+    }
+    end_time {
+      seconds: 5
+      nanos: 100000000
+    }
+    word: "an"
+  }
+  words {
+    start_time {
+      seconds: 5
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 5
+      nanos: 600000000
+    }
+    word: "audience."
+  }
+  words {
+    start_time {
+      seconds: 5
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 6
+      nanos: 100000000
+    }
+    word: "That"
+  }
+  words {
+    start_time {
+      seconds: 6
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 6
+      nanos: 500000000
+    }
+    word: "doesn\'t"
+  }
+  words {
+    start_time {
+      seconds: 6
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 6
+      nanos: 600000000
+    }
+    word: "know"
+  }
+  words {
+    start_time {
+      seconds: 6
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 6
+      nanos: 900000000
+    }
+    word: "me"
+  }
+  words {
+    start_time {
+      seconds: 6
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 7
+      nanos: 600000000
+    }
+    word: "but"
+  }
+  words {
+    start_time {
+      seconds: 7
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 7
+      nanos: 700000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 7
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 7
+      nanos: 900000000
+    }
+    word: "know,"
+  }
+  words {
+    start_time {
+      seconds: 7
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 8
+      nanos: 100000000
+    }
+    word: "if"
+  }
+  words {
+    start_time {
+      seconds: 8
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 8
+      nanos: 200000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 8
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 8
+      nanos: 300000000
+    }
+    word: "don\'t"
+  }
+  words {
+    start_time {
+      seconds: 8
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 8
+      nanos: 600000000
+    }
+    word: "tell"
+  }
+  words {
+    start_time {
+      seconds: 8
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 8
+      nanos: 800000000
+    }
+    word: "you,"
+  }
+  words {
+    start_time {
+      seconds: 8
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 9
+      nanos: 500000000
+    }
+    word: "how"
+  }
+  words {
+    start_time {
+      seconds: 9
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 9
+      nanos: 600000000
+    }
+    word: "am"
+  }
+  words {
+    start_time {
+      seconds: 9
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 9
+      nanos: 600000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 9
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 9
+      nanos: 800000000
+    }
+    word: "going"
+  }
+  words {
+    start_time {
+      seconds: 9
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 9
+      nanos: 900000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 9
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 10
+    }
+    word: "get"
+  }
+  words {
+    start_time {
+      seconds: 10
+    }
+    end_time {
+      seconds: 10
+      nanos: 200000000
+    }
+    word: "laid?"
+  }
+}
+
+alternatives {
+  transcript: " You got to put it out there in the universe so it comes back."
+  confidence: 0.923652350903
+  words {
+    start_time {
+      seconds: 12
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 13
+    }
+    word: "You"
+  }
+  words {
+    start_time {
+      seconds: 13
+    }
+    end_time {
+      seconds: 13
+      nanos: 200000000
+    }
+    word: "got"
+  }
+  words {
+    start_time {
+      seconds: 13
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 13
+      nanos: 300000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 13
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 13
+      nanos: 400000000
+    }
+    word: "put"
+  }
+  words {
+    start_time {
+      seconds: 13
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 13
+      nanos: 500000000
+    }
+    word: "it"
+  }
+  words {
+    start_time {
+      seconds: 13
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 13
+      nanos: 600000000
+    }
+    word: "out"
+  }
+  words {
+    start_time {
+      seconds: 13
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 13
+      nanos: 800000000
+    }
+    word: "there"
+  }
+  words {
+    start_time {
+      seconds: 13
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 14
+      nanos: 200000000
+    }
+    word: "in"
+  }
+  words {
+    start_time {
+      seconds: 14
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 14
+      nanos: 200000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 14
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 14
+      nanos: 500000000
+    }
+    word: "universe"
+  }
+  words {
+    start_time {
+      seconds: 14
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 15
+    }
+    word: "so"
+  }
+  words {
+    start_time {
+      seconds: 15
+    }
+    end_time {
+      seconds: 15
+      nanos: 100000000
+    }
+    word: "it"
+  }
+  words {
+    start_time {
+      seconds: 15
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 15
+      nanos: 200000000
+    }
+    word: "comes"
+  }
+  words {
+    start_time {
+      seconds: 15
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 15
+      nanos: 500000000
+    }
+    word: "back."
+  }
+}
+
+alternatives {
+  transcript: " And it\'s not that I can\'t it\'s just I\'m doing something different than I\'ve ever done before. I am getting to know men before I sleep with him. Don\'t do that cuz all my can they talk you out of it."
+  confidence: 0.971220731735
+  words {
+    start_time {
+      seconds: 17
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 17
+      nanos: 600000000
+    }
+    word: "And"
+  }
+  words {
+    start_time {
+      seconds: 17
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 17
+      nanos: 700000000
+    }
+    word: "it\'s"
+  }
+  words {
+    start_time {
+      seconds: 17
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 17
+      nanos: 800000000
+    }
+    word: "not"
+  }
+  words {
+    start_time {
+      seconds: 17
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 17
+      nanos: 900000000
+    }
+    word: "that"
+  }
+  words {
+    start_time {
+      seconds: 17
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 18
+      nanos: 100000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 18
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 18
+      nanos: 700000000
+    }
+    word: "can\'t"
+  }
+  words {
+    start_time {
+      seconds: 18
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 18
+      nanos: 800000000
+    }
+    word: "it\'s"
+  }
+  words {
+    start_time {
+      seconds: 18
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 19
+    }
+    word: "just"
+  }
+  words {
+    start_time {
+      seconds: 19
+    }
+    end_time {
+      seconds: 19
+      nanos: 200000000
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 19
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 19
+      nanos: 300000000
+    }
+    word: "doing"
+  }
+  words {
+    start_time {
+      seconds: 19
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 19
+      nanos: 800000000
+    }
+    word: "something"
+  }
+  words {
+    start_time {
+      seconds: 19
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 20
+      nanos: 500000000
+    }
+    word: "different"
+  }
+  words {
+    start_time {
+      seconds: 20
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 20
+      nanos: 600000000
+    }
+    word: "than"
+  }
+  words {
+    start_time {
+      seconds: 20
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 20
+      nanos: 700000000
+    }
+    word: "I\'ve"
+  }
+  words {
+    start_time {
+      seconds: 20
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 20
+      nanos: 800000000
+    }
+    word: "ever"
+  }
+  words {
+    start_time {
+      seconds: 20
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 21
+      nanos: 100000000
+    }
+    word: "done"
+  }
+  words {
+    start_time {
+      seconds: 21
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 21
+      nanos: 400000000
+    }
+    word: "before."
+  }
+  words {
+    start_time {
+      seconds: 21
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 21
+      nanos: 900000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 21
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 22
+    }
+    word: "am"
+  }
+  words {
+    start_time {
+      seconds: 22
+    }
+    end_time {
+      seconds: 22
+      nanos: 300000000
+    }
+    word: "getting"
+  }
+  words {
+    start_time {
+      seconds: 22
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 22
+      nanos: 600000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 22
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 22
+      nanos: 800000000
+    }
+    word: "know"
+  }
+  words {
+    start_time {
+      seconds: 22
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 23
+      nanos: 300000000
+    }
+    word: "men"
+  }
+  words {
+    start_time {
+      seconds: 23
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 23
+      nanos: 800000000
+    }
+    word: "before"
+  }
+  words {
+    start_time {
+      seconds: 23
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 24
+      nanos: 100000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 24
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 24
+      nanos: 400000000
+    }
+    word: "sleep"
+  }
+  words {
+    start_time {
+      seconds: 24
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 24
+      nanos: 600000000
+    }
+    word: "with"
+  }
+  words {
+    start_time {
+      seconds: 24
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 24
+      nanos: 900000000
+    }
+    word: "him."
+  }
+  words {
+    start_time {
+      seconds: 24
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 29
+      nanos: 400000000
+    }
+    word: "Don\'t"
+  }
+  words {
+    start_time {
+      seconds: 29
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 29
+      nanos: 600000000
+    }
+    word: "do"
+  }
+  words {
+    start_time {
+      seconds: 29
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 30
+      nanos: 100000000
+    }
+    word: "that"
+  }
+  words {
+    start_time {
+      seconds: 30
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 31
+      nanos: 400000000
+    }
+    word: "cuz"
+  }
+  words {
+    start_time {
+      seconds: 31
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 31
+      nanos: 800000000
+    }
+    word: "all"
+  }
+  words {
+    start_time {
+      seconds: 31
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 31
+      nanos: 900000000
+    }
+    word: "my"
+  }
+  words {
+    start_time {
+      seconds: 31
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 33
+      nanos: 400000000
+    }
+    word: "can"
+  }
+  words {
+    start_time {
+      seconds: 33
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 33
+      nanos: 600000000
+    }
+    word: "they"
+  }
+  words {
+    start_time {
+      seconds: 33
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 33
+      nanos: 900000000
+    }
+    word: "talk"
+  }
+  words {
+    start_time {
+      seconds: 33
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 34
+      nanos: 200000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 34
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 34
+      nanos: 300000000
+    }
+    word: "out"
+  }
+  words {
+    start_time {
+      seconds: 34
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 34
+      nanos: 600000000
+    }
+    word: "of"
+  }
+  words {
+    start_time {
+      seconds: 34
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 34
+      nanos: 700000000
+    }
+    word: "it."
+  }
+}
+
+alternatives {
+  transcript: " No, it\'s amazing when you just listen for a second. You\'ll be like no."
+  confidence: 0.880668580532
+  words {
+    start_time {
+      seconds: 37
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 37
+      nanos: 600000000
+    }
+    word: "No,"
+  }
+  words {
+    start_time {
+      seconds: 37
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 37
+      nanos: 900000000
+    }
+    word: "it\'s"
+  }
+  words {
+    start_time {
+      seconds: 37
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 38
+      nanos: 400000000
+    }
+    word: "amazing"
+  }
+  words {
+    start_time {
+      seconds: 38
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 38
+      nanos: 600000000
+    }
+    word: "when"
+  }
+  words {
+    start_time {
+      seconds: 38
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 38
+      nanos: 700000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 38
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 38
+      nanos: 900000000
+    }
+    word: "just"
+  }
+  words {
+    start_time {
+      seconds: 38
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 39
+      nanos: 400000000
+    }
+    word: "listen"
+  }
+  words {
+    start_time {
+      seconds: 39
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 39
+      nanos: 600000000
+    }
+    word: "for"
+  }
+  words {
+    start_time {
+      seconds: 39
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 39
+      nanos: 700000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 39
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 40
+      nanos: 200000000
+    }
+    word: "second."
+  }
+  words {
+    start_time {
+      seconds: 40
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 41
+      nanos: 500000000
+    }
+    word: "You\'ll"
+  }
+  words {
+    start_time {
+      seconds: 41
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 41
+      nanos: 600000000
+    }
+    word: "be"
+  }
+  words {
+    start_time {
+      seconds: 41
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 41
+      nanos: 800000000
+    }
+    word: "like"
+  }
+  words {
+    start_time {
+      seconds: 41
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 42
+      nanos: 200000000
+    }
+    word: "no."
+  }
+}
+
+alternatives {
+  transcript: " You cannot have this."
+  confidence: 0.988801956177
+  words {
+    start_time {
+      seconds: 43
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 44
+    }
+    word: "You"
+  }
+  words {
+    start_time {
+      seconds: 44
+    }
+    end_time {
+      seconds: 44
+      nanos: 300000000
+    }
+    word: "cannot"
+  }
+  words {
+    start_time {
+      seconds: 44
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 44
+      nanos: 600000000
+    }
+    word: "have"
+  }
+  words {
+    start_time {
+      seconds: 44
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 44
+      nanos: 900000000
+    }
+    word: "this."
+  }
+}
+
+alternatives {
+  transcript: " Like I have this one guy tell me he was going to take the bus to my house."
+  confidence: 0.981881380081
+  words {
+    start_time {
+      seconds: 46
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 46
+      nanos: 900000000
+    }
+    word: "Like"
+  }
+  words {
+    start_time {
+      seconds: 46
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 47
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 47
+    }
+    end_time {
+      seconds: 47
+      nanos: 100000000
+    }
+    word: "have"
+  }
+  words {
+    start_time {
+      seconds: 47
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 47
+      nanos: 200000000
+    }
+    word: "this"
+  }
+  words {
+    start_time {
+      seconds: 47
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 47
+      nanos: 600000000
+    }
+    word: "one"
+  }
+  words {
+    start_time {
+      seconds: 47
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 47
+      nanos: 600000000
+    }
+    word: "guy"
+  }
+  words {
+    start_time {
+      seconds: 47
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 48
+      nanos: 100000000
+    }
+    word: "tell"
+  }
+  words {
+    start_time {
+      seconds: 48
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 48
+      nanos: 200000000
+    }
+    word: "me"
+  }
+  words {
+    start_time {
+      seconds: 48
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 48
+      nanos: 300000000
+    }
+    word: "he"
+  }
+  words {
+    start_time {
+      seconds: 48
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 48
+      nanos: 400000000
+    }
+    word: "was"
+  }
+  words {
+    start_time {
+      seconds: 48
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 48
+      nanos: 500000000
+    }
+    word: "going"
+  }
+  words {
+    start_time {
+      seconds: 48
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 48
+      nanos: 700000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 48
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 48
+      nanos: 900000000
+    }
+    word: "take"
+  }
+  words {
+    start_time {
+      seconds: 48
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 49
+      nanos: 100000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 49
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 49
+      nanos: 200000000
+    }
+    word: "bus"
+  }
+  words {
+    start_time {
+      seconds: 49
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 49
+      nanos: 600000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 49
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 49
+      nanos: 800000000
+    }
+    word: "my"
+  }
+  words {
+    start_time {
+      seconds: 49
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 50
+      nanos: 200000000
+    }
+    word: "house."
+  }
+}
+
+alternatives {
+  transcript: " Hahaha the boss."
+  confidence: 0.867541790009
+  words {
+    start_time {
+      seconds: 52
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 53
+      nanos: 200000000
+    }
+    word: "Hahaha"
+  }
+  words {
+    start_time {
+      seconds: 53
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 55
+      nanos: 300000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 55
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 55
+      nanos: 700000000
+    }
+    word: "boss."
+  }
+}
+
+alternatives {
+  transcript: " I like this ain\'t no bus."
+  confidence: 0.795044958591
+  words {
+    start_time {
+      seconds: 56
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 57
+      nanos: 100000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 57
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 57
+      nanos: 400000000
+    }
+    word: "like"
+  }
+  words {
+    start_time {
+      seconds: 57
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 57
+      nanos: 500000000
+    }
+    word: "this"
+  }
+  words {
+    start_time {
+      seconds: 57
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 57
+      nanos: 700000000
+    }
+    word: "ain\'t"
+  }
+  words {
+    start_time {
+      seconds: 57
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 57
+      nanos: 900000000
+    }
+    word: "no"
+  }
+  words {
+    start_time {
+      seconds: 57
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 58
+      nanos: 200000000
+    }
+    word: "bus."
+  }
+}
+
+alternatives {
+  transcript: " Are you going to take the bus to it?"
+  confidence: 0.935997009277
+  words {
+    start_time {
+      seconds: 66
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 68
+      nanos: 300000000
+    }
+    word: "Are"
+  }
+  words {
+    start_time {
+      seconds: 68
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 68
+      nanos: 400000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 68
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 68
+      nanos: 500000000
+    }
+    word: "going"
+  }
+  words {
+    start_time {
+      seconds: 68
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 68
+      nanos: 600000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 68
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 68
+      nanos: 700000000
+    }
+    word: "take"
+  }
+  words {
+    start_time {
+      seconds: 68
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 68
+      nanos: 900000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 68
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 69
+      nanos: 100000000
+    }
+    word: "bus"
+  }
+  words {
+    start_time {
+      seconds: 69
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 69
+      nanos: 500000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 69
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 69
+      nanos: 800000000
+    }
+    word: "it?"
+  }
+}
+
+alternatives {
+  transcript: " He even said he was going to transfer to another bus."
+  confidence: 0.927881002426
+  words {
+    start_time {
+      seconds: 71
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 71
+      nanos: 500000000
+    }
+    word: "He"
+  }
+  words {
+    start_time {
+      seconds: 71
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 71
+      nanos: 600000000
+    }
+    word: "even"
+  }
+  words {
+    start_time {
+      seconds: 71
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 71
+      nanos: 900000000
+    }
+    word: "said"
+  }
+  words {
+    start_time {
+      seconds: 71
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 71
+      nanos: 900000000
+    }
+    word: "he"
+  }
+  words {
+    start_time {
+      seconds: 71
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 72
+      nanos: 100000000
+    }
+    word: "was"
+  }
+  words {
+    start_time {
+      seconds: 72
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 72
+      nanos: 200000000
+    }
+    word: "going"
+  }
+  words {
+    start_time {
+      seconds: 72
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 72
+      nanos: 200000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 72
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 72
+      nanos: 500000000
+    }
+    word: "transfer"
+  }
+  words {
+    start_time {
+      seconds: 72
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 72
+      nanos: 900000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 72
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 72
+      nanos: 900000000
+    }
+    word: "another"
+  }
+  words {
+    start_time {
+      seconds: 72
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 73
+      nanos: 600000000
+    }
+    word: "bus."
+  }
+}
+
+alternatives {
+  transcript: " Thank you guys for laughing at them now cuz I did this in Wisconsin. Apparently they all ride the bus there it was quiet. They were offended. I had one lady. She\'s like, oh she\'s fancy fancy lady doesn\'t ride the bus."
+  confidence: 0.953266501427
+  words {
+    start_time {
+      seconds: 75
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 76
+    }
+    word: "Thank"
+  }
+  words {
+    start_time {
+      seconds: 76
+    }
+    end_time {
+      seconds: 76
+      nanos: 100000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 76
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 76
+      nanos: 200000000
+    }
+    word: "guys"
+  }
+  words {
+    start_time {
+      seconds: 76
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 76
+      nanos: 300000000
+    }
+    word: "for"
+  }
+  words {
+    start_time {
+      seconds: 76
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 76
+      nanos: 800000000
+    }
+    word: "laughing"
+  }
+  words {
+    start_time {
+      seconds: 76
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 76
+      nanos: 900000000
+    }
+    word: "at"
+  }
+  words {
+    start_time {
+      seconds: 76
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 77
+      nanos: 100000000
+    }
+    word: "them"
+  }
+  words {
+    start_time {
+      seconds: 77
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 78
+      nanos: 300000000
+    }
+    word: "now"
+  }
+  words {
+    start_time {
+      seconds: 78
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 78
+      nanos: 400000000
+    }
+    word: "cuz"
+  }
+  words {
+    start_time {
+      seconds: 78
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 78
+      nanos: 500000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 78
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 78
+      nanos: 700000000
+    }
+    word: "did"
+  }
+  words {
+    start_time {
+      seconds: 78
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 78
+      nanos: 800000000
+    }
+    word: "this"
+  }
+  words {
+    start_time {
+      seconds: 78
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 79
+    }
+    word: "in"
+  }
+  words {
+    start_time {
+      seconds: 79
+    }
+    end_time {
+      seconds: 80
+    }
+    word: "Wisconsin."
+  }
+  words {
+    start_time {
+      seconds: 80
+    }
+    end_time {
+      seconds: 80
+      nanos: 700000000
+    }
+    word: "Apparently"
+  }
+  words {
+    start_time {
+      seconds: 80
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 81
+      nanos: 300000000
+    }
+    word: "they"
+  }
+  words {
+    start_time {
+      seconds: 81
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 81
+      nanos: 400000000
+    }
+    word: "all"
+  }
+  words {
+    start_time {
+      seconds: 81
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 81
+      nanos: 800000000
+    }
+    word: "ride"
+  }
+  words {
+    start_time {
+      seconds: 81
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 81
+      nanos: 900000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 81
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 82
+      nanos: 200000000
+    }
+    word: "bus"
+  }
+  words {
+    start_time {
+      seconds: 82
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 82
+      nanos: 500000000
+    }
+    word: "there"
+  }
+  words {
+    start_time {
+      seconds: 82
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 84
+      nanos: 400000000
+    }
+    word: "it"
+  }
+  words {
+    start_time {
+      seconds: 84
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 84
+      nanos: 600000000
+    }
+    word: "was"
+  }
+  words {
+    start_time {
+      seconds: 84
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 85
+      nanos: 100000000
+    }
+    word: "quiet."
+  }
+  words {
+    start_time {
+      seconds: 85
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 86
+      nanos: 200000000
+    }
+    word: "They"
+  }
+  words {
+    start_time {
+      seconds: 86
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 86
+      nanos: 400000000
+    }
+    word: "were"
+  }
+  words {
+    start_time {
+      seconds: 86
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 86
+      nanos: 900000000
+    }
+    word: "offended."
+  }
+  words {
+    start_time {
+      seconds: 86
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 87
+      nanos: 600000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 87
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 87
+      nanos: 900000000
+    }
+    word: "had"
+  }
+  words {
+    start_time {
+      seconds: 87
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 88
+    }
+    word: "one"
+  }
+  words {
+    start_time {
+      seconds: 88
+    }
+    end_time {
+      seconds: 88
+      nanos: 200000000
+    }
+    word: "lady."
+  }
+  words {
+    start_time {
+      seconds: 88
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 88
+      nanos: 400000000
+    }
+    word: "She\'s"
+  }
+  words {
+    start_time {
+      seconds: 88
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 88
+      nanos: 600000000
+    }
+    word: "like,"
+  }
+  words {
+    start_time {
+      seconds: 88
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 88
+      nanos: 700000000
+    }
+    word: "oh"
+  }
+  words {
+    start_time {
+      seconds: 88
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 89
+      nanos: 500000000
+    }
+    word: "she\'s"
+  }
+  words {
+    start_time {
+      seconds: 89
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 90
+    }
+    word: "fancy"
+  }
+  words {
+    start_time {
+      seconds: 90
+    }
+    end_time {
+      seconds: 91
+      nanos: 700000000
+    }
+    word: "fancy"
+  }
+  words {
+    start_time {
+      seconds: 91
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 92
+      nanos: 200000000
+    }
+    word: "lady"
+  }
+  words {
+    start_time {
+      seconds: 92
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 92
+      nanos: 500000000
+    }
+    word: "doesn\'t"
+  }
+  words {
+    start_time {
+      seconds: 92
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 92
+      nanos: 800000000
+    }
+    word: "ride"
+  }
+  words {
+    start_time {
+      seconds: 92
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 92
+      nanos: 900000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 92
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 93
+      nanos: 500000000
+    }
+    word: "bus."
+  }
+}
+
+alternatives {
+  transcript: " I don\'t."
+  confidence: 0.952754318714
+  words {
+    start_time {
+      seconds: 94
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 94
+      nanos: 900000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 94
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 95
+      nanos: 400000000
+    }
+    word: "don\'t."
+  }
+}
+
+alternatives {
+  transcript: " This is why I talk about you know my relationship cuz my friends won\'t listen anymore."
+  confidence: 0.920712888241
+  words {
+    start_time {
+      seconds: 97
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 98
+      nanos: 100000000
+    }
+    word: "This"
+  }
+  words {
+    start_time {
+      seconds: 98
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 98
+      nanos: 200000000
+    }
+    word: "is"
+  }
+  words {
+    start_time {
+      seconds: 98
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 98
+      nanos: 400000000
+    }
+    word: "why"
+  }
+  words {
+    start_time {
+      seconds: 98
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 98
+      nanos: 400000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 98
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 98
+      nanos: 700000000
+    }
+    word: "talk"
+  }
+  words {
+    start_time {
+      seconds: 98
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 98
+      nanos: 800000000
+    }
+    word: "about"
+  }
+  words {
+    start_time {
+      seconds: 98
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 99
+      nanos: 100000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 99
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 99
+      nanos: 200000000
+    }
+    word: "know"
+  }
+  words {
+    start_time {
+      seconds: 99
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 99
+      nanos: 700000000
+    }
+    word: "my"
+  }
+  words {
+    start_time {
+      seconds: 99
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 100
+    }
+    word: "relationship"
+  }
+  words {
+    start_time {
+      seconds: 100
+    }
+    end_time {
+      seconds: 100
+      nanos: 700000000
+    }
+    word: "cuz"
+  }
+  words {
+    start_time {
+      seconds: 100
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 100
+      nanos: 800000000
+    }
+    word: "my"
+  }
+  words {
+    start_time {
+      seconds: 100
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 101
+      nanos: 200000000
+    }
+    word: "friends"
+  }
+  words {
+    start_time {
+      seconds: 101
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 101
+      nanos: 300000000
+    }
+    word: "won\'t"
+  }
+  words {
+    start_time {
+      seconds: 101
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 101
+      nanos: 500000000
+    }
+    word: "listen"
+  }
+  words {
+    start_time {
+      seconds: 101
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 101
+      nanos: 900000000
+    }
+    word: "anymore."
+  }
+}
+
+alternatives {
+  transcript: " But I have you."
+  confidence: 0.980329394341
+  words {
+    start_time {
+      seconds: 103
+    }
+    end_time {
+      seconds: 103
+      nanos: 700000000
+    }
+    word: "But"
+  }
+  words {
+    start_time {
+      seconds: 103
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 103
+      nanos: 800000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 103
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 104
+      nanos: 100000000
+    }
+    word: "have"
+  }
+  words {
+    start_time {
+      seconds: 104
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 104
+      nanos: 400000000
+    }
+    word: "you."
+  }
+}
+
+alternatives {
+  transcript: " Like politics. I\'m not good at on stage and I wish I was I and I just I\'m not good at it. You know when I have guilt about not talking about politics I have what\'s called black guilt."
+  confidence: 0.907001793385
+  words {
+    start_time {
+      seconds: 105
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 106
+      nanos: 200000000
+    }
+    word: "Like"
+  }
+  words {
+    start_time {
+      seconds: 106
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 106
+      nanos: 700000000
+    }
+    word: "politics."
+  }
+  words {
+    start_time {
+      seconds: 106
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 106
+      nanos: 900000000
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 106
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 107
+      nanos: 100000000
+    }
+    word: "not"
+  }
+  words {
+    start_time {
+      seconds: 107
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 107
+      nanos: 300000000
+    }
+    word: "good"
+  }
+  words {
+    start_time {
+      seconds: 107
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 107
+      nanos: 400000000
+    }
+    word: "at"
+  }
+  words {
+    start_time {
+      seconds: 107
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 107
+      nanos: 600000000
+    }
+    word: "on"
+  }
+  words {
+    start_time {
+      seconds: 107
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 108
+      nanos: 100000000
+    }
+    word: "stage"
+  }
+  words {
+    start_time {
+      seconds: 108
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 108
+      nanos: 200000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 108
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 108
+      nanos: 300000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 108
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 108
+      nanos: 600000000
+    }
+    word: "wish"
+  }
+  words {
+    start_time {
+      seconds: 108
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 108
+      nanos: 700000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 108
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 108
+      nanos: 900000000
+    }
+    word: "was"
+  }
+  words {
+    start_time {
+      seconds: 108
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 109
+      nanos: 100000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 109
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 109
+      nanos: 400000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 109
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 109
+      nanos: 500000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 109
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 109
+      nanos: 800000000
+    }
+    word: "just"
+  }
+  words {
+    start_time {
+      seconds: 109
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 110
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 110
+    }
+    end_time {
+      seconds: 110
+      nanos: 100000000
+    }
+    word: "not"
+  }
+  words {
+    start_time {
+      seconds: 110
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 110
+      nanos: 700000000
+    }
+    word: "good"
+  }
+  words {
+    start_time {
+      seconds: 110
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 110
+      nanos: 800000000
+    }
+    word: "at"
+  }
+  words {
+    start_time {
+      seconds: 110
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 111
+    }
+    word: "it."
+  }
+  words {
+    start_time {
+      seconds: 111
+    }
+    end_time {
+      seconds: 111
+      nanos: 900000000
+    }
+    word: "You"
+  }
+  words {
+    start_time {
+      seconds: 111
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 112
+    }
+    word: "know"
+  }
+  words {
+    start_time {
+      seconds: 112
+    }
+    end_time {
+      seconds: 112
+      nanos: 100000000
+    }
+    word: "when"
+  }
+  words {
+    start_time {
+      seconds: 112
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 112
+      nanos: 200000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 112
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 112
+      nanos: 300000000
+    }
+    word: "have"
+  }
+  words {
+    start_time {
+      seconds: 112
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 112
+      nanos: 700000000
+    }
+    word: "guilt"
+  }
+  words {
+    start_time {
+      seconds: 112
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 112
+      nanos: 800000000
+    }
+    word: "about"
+  }
+  words {
+    start_time {
+      seconds: 112
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 112
+      nanos: 900000000
+    }
+    word: "not"
+  }
+  words {
+    start_time {
+      seconds: 112
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 113
+      nanos: 400000000
+    }
+    word: "talking"
+  }
+  words {
+    start_time {
+      seconds: 113
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 113
+      nanos: 600000000
+    }
+    word: "about"
+  }
+  words {
+    start_time {
+      seconds: 113
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 114
+      nanos: 200000000
+    }
+    word: "politics"
+  }
+  words {
+    start_time {
+      seconds: 114
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 114
+      nanos: 400000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 114
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 114
+      nanos: 700000000
+    }
+    word: "have"
+  }
+  words {
+    start_time {
+      seconds: 114
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 114
+      nanos: 900000000
+    }
+    word: "what\'s"
+  }
+  words {
+    start_time {
+      seconds: 114
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 115
+    }
+    word: "called"
+  }
+  words {
+    start_time {
+      seconds: 115
+    }
+    end_time {
+      seconds: 115
+      nanos: 500000000
+    }
+    word: "black"
+  }
+  words {
+    start_time {
+      seconds: 115
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 116
+    }
+    word: "guilt."
+  }
+}
+
+alternatives {
+  transcript: " I know something you don\'t know what to do with that. But it\'s happening, you know times are changing. Its when your black and you haven\'t done enough you feel it. You know, like I need to do some more action. I need to get a good Martian."
+  confidence: 0.931244492531
+  words {
+    start_time {
+      seconds: 117
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 118
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 118
+    }
+    end_time {
+      seconds: 118
+      nanos: 100000000
+    }
+    word: "know"
+  }
+  words {
+    start_time {
+      seconds: 118
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 118
+      nanos: 400000000
+    }
+    word: "something"
+  }
+  words {
+    start_time {
+      seconds: 118
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 118
+      nanos: 400000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 118
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 118
+      nanos: 500000000
+    }
+    word: "don\'t"
+  }
+  words {
+    start_time {
+      seconds: 118
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 118
+      nanos: 600000000
+    }
+    word: "know"
+  }
+  words {
+    start_time {
+      seconds: 118
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 118
+      nanos: 800000000
+    }
+    word: "what"
+  }
+  words {
+    start_time {
+      seconds: 118
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 118
+      nanos: 900000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 118
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 119
+    }
+    word: "do"
+  }
+  words {
+    start_time {
+      seconds: 119
+    }
+    end_time {
+      seconds: 119
+      nanos: 100000000
+    }
+    word: "with"
+  }
+  words {
+    start_time {
+      seconds: 119
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 119
+      nanos: 400000000
+    }
+    word: "that."
+  }
+  words {
+    start_time {
+      seconds: 119
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 121
+      nanos: 400000000
+    }
+    word: "But"
+  }
+  words {
+    start_time {
+      seconds: 121
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 121
+      nanos: 600000000
+    }
+    word: "it\'s"
+  }
+  words {
+    start_time {
+      seconds: 121
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 122
+      nanos: 100000000
+    }
+    word: "happening,"
+  }
+  words {
+    start_time {
+      seconds: 122
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 123
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 123
+    }
+    end_time {
+      seconds: 123
+      nanos: 100000000
+    }
+    word: "know"
+  }
+  words {
+    start_time {
+      seconds: 123
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 123
+      nanos: 400000000
+    }
+    word: "times"
+  }
+  words {
+    start_time {
+      seconds: 123
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 123
+      nanos: 400000000
+    }
+    word: "are"
+  }
+  words {
+    start_time {
+      seconds: 123
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 123
+      nanos: 900000000
+    }
+    word: "changing."
+  }
+  words {
+    start_time {
+      seconds: 123
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 124
+      nanos: 100000000
+    }
+    word: "Its"
+  }
+  words {
+    start_time {
+      seconds: 124
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 124
+      nanos: 200000000
+    }
+    word: "when"
+  }
+  words {
+    start_time {
+      seconds: 124
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 124
+      nanos: 300000000
+    }
+    word: "your"
+  }
+  words {
+    start_time {
+      seconds: 124
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 124
+      nanos: 600000000
+    }
+    word: "black"
+  }
+  words {
+    start_time {
+      seconds: 124
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 124
+      nanos: 700000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 124
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 124
+      nanos: 800000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 124
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 125
+      nanos: 100000000
+    }
+    word: "haven\'t"
+  }
+  words {
+    start_time {
+      seconds: 125
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 125
+      nanos: 200000000
+    }
+    word: "done"
+  }
+  words {
+    start_time {
+      seconds: 125
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 125
+      nanos: 400000000
+    }
+    word: "enough"
+  }
+  words {
+    start_time {
+      seconds: 125
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 125
+      nanos: 800000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 125
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 126
+      nanos: 100000000
+    }
+    word: "feel"
+  }
+  words {
+    start_time {
+      seconds: 126
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 126
+      nanos: 300000000
+    }
+    word: "it."
+  }
+  words {
+    start_time {
+      seconds: 126
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 126
+      nanos: 400000000
+    }
+    word: "You"
+  }
+  words {
+    start_time {
+      seconds: 126
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 126
+      nanos: 600000000
+    }
+    word: "know,"
+  }
+  words {
+    start_time {
+      seconds: 126
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 126
+      nanos: 700000000
+    }
+    word: "like"
+  }
+  words {
+    start_time {
+      seconds: 126
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 127
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 127
+    }
+    end_time {
+      seconds: 127
+      nanos: 100000000
+    }
+    word: "need"
+  }
+  words {
+    start_time {
+      seconds: 127
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 127
+      nanos: 200000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 127
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 127
+      nanos: 300000000
+    }
+    word: "do"
+  }
+  words {
+    start_time {
+      seconds: 127
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 127
+      nanos: 600000000
+    }
+    word: "some"
+  }
+  words {
+    start_time {
+      seconds: 127
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 127
+      nanos: 600000000
+    }
+    word: "more"
+  }
+  words {
+    start_time {
+      seconds: 127
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 128
+      nanos: 100000000
+    }
+    word: "action."
+  }
+  words {
+    start_time {
+      seconds: 128
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 130
+      nanos: 100000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 130
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 130
+      nanos: 300000000
+    }
+    word: "need"
+  }
+  words {
+    start_time {
+      seconds: 130
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 130
+      nanos: 400000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 130
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 130
+      nanos: 500000000
+    }
+    word: "get"
+  }
+  words {
+    start_time {
+      seconds: 130
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 130
+      nanos: 600000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 130
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 130
+      nanos: 700000000
+    }
+    word: "good"
+  }
+  words {
+    start_time {
+      seconds: 130
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 131
+      nanos: 400000000
+    }
+    word: "Martian."
+  }
+}
+
+alternatives {
+  transcript: " Just my allergies are really acting up."
+  confidence: 0.962765157223
+  words {
+    start_time {
+      seconds: 132
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 133
+      nanos: 300000000
+    }
+    word: "Just"
+  }
+  words {
+    start_time {
+      seconds: 133
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 133
+      nanos: 300000000
+    }
+    word: "my"
+  }
+  words {
+    start_time {
+      seconds: 133
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 133
+      nanos: 600000000
+    }
+    word: "allergies"
+  }
+  words {
+    start_time {
+      seconds: 133
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 134
+    }
+    word: "are"
+  }
+  words {
+    start_time {
+      seconds: 134
+    }
+    end_time {
+      seconds: 134
+      nanos: 100000000
+    }
+    word: "really"
+  }
+  words {
+    start_time {
+      seconds: 134
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 134
+      nanos: 300000000
+    }
+    word: "acting"
+  }
+  words {
+    start_time {
+      seconds: 134
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 134
+      nanos: 700000000
+    }
+    word: "up."
+  }
+}
+
+alternatives {
+  transcript: " I\'m more of a seasonal protester. Thank you."
+  confidence: 0.961578905582
+  words {
+    start_time {
+      seconds: 136
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 137
+      nanos: 400000000
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 137
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 137
+      nanos: 500000000
+    }
+    word: "more"
+  }
+  words {
+    start_time {
+      seconds: 137
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 137
+      nanos: 600000000
+    }
+    word: "of"
+  }
+  words {
+    start_time {
+      seconds: 137
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 137
+      nanos: 700000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 137
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 138
+      nanos: 200000000
+    }
+    word: "seasonal"
+  }
+  words {
+    start_time {
+      seconds: 138
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 139
+    }
+    word: "protester."
+  }
+  words {
+    start_time {
+      seconds: 139
+    }
+    end_time {
+      seconds: 141
+      nanos: 200000000
+    }
+    word: "Thank"
+  }
+  words {
+    start_time {
+      seconds: 141
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 141
+      nanos: 400000000
+    }
+    word: "you."
+  }
+}
+
+alternatives {
+  transcript: " I\'m just saying I could do more like the women\'s March I wanted to do the first one in DC. I wanted to do that, but I have a weak bladder and I knew the lines for that bathroom. We\'re going to be long and they were they said they were historically long lines."
+  confidence: 0.959151685238
+  words {
+    start_time {
+      seconds: 145
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 145
+      nanos: 700000000
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 145
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 145
+      nanos: 900000000
+    }
+    word: "just"
+  }
+  words {
+    start_time {
+      seconds: 145
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 146
+      nanos: 200000000
+    }
+    word: "saying"
+  }
+  words {
+    start_time {
+      seconds: 146
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 146
+      nanos: 300000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 146
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 146
+      nanos: 400000000
+    }
+    word: "could"
+  }
+  words {
+    start_time {
+      seconds: 146
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 147
+      nanos: 400000000
+    }
+    word: "do"
+  }
+  words {
+    start_time {
+      seconds: 147
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 147
+      nanos: 600000000
+    }
+    word: "more"
+  }
+  words {
+    start_time {
+      seconds: 147
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 147
+      nanos: 900000000
+    }
+    word: "like"
+  }
+  words {
+    start_time {
+      seconds: 147
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 148
+      nanos: 100000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 148
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 148
+      nanos: 500000000
+    }
+    word: "women\'s"
+  }
+  words {
+    start_time {
+      seconds: 148
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 148
+      nanos: 800000000
+    }
+    word: "March"
+  }
+  words {
+    start_time {
+      seconds: 148
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 148
+      nanos: 900000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 148
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 149
+      nanos: 200000000
+    }
+    word: "wanted"
+  }
+  words {
+    start_time {
+      seconds: 149
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 149
+      nanos: 300000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 149
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 149
+      nanos: 500000000
+    }
+    word: "do"
+  }
+  words {
+    start_time {
+      seconds: 149
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 149
+      nanos: 700000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 149
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 150
+      nanos: 100000000
+    }
+    word: "first"
+  }
+  words {
+    start_time {
+      seconds: 150
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 150
+      nanos: 500000000
+    }
+    word: "one"
+  }
+  words {
+    start_time {
+      seconds: 150
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 150
+      nanos: 800000000
+    }
+    word: "in"
+  }
+  words {
+    start_time {
+      seconds: 150
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 151
+      nanos: 300000000
+    }
+    word: "DC."
+  }
+  words {
+    start_time {
+      seconds: 151
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 151
+      nanos: 500000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 151
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 151
+      nanos: 900000000
+    }
+    word: "wanted"
+  }
+  words {
+    start_time {
+      seconds: 151
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 152
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 152
+    }
+    end_time {
+      seconds: 152
+      nanos: 200000000
+    }
+    word: "do"
+  }
+  words {
+    start_time {
+      seconds: 152
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 152
+      nanos: 300000000
+    }
+    word: "that,"
+  }
+  words {
+    start_time {
+      seconds: 152
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 153
+      nanos: 300000000
+    }
+    word: "but"
+  }
+  words {
+    start_time {
+      seconds: 153
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 153
+      nanos: 500000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 153
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 153
+      nanos: 800000000
+    }
+    word: "have"
+  }
+  words {
+    start_time {
+      seconds: 153
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 153
+      nanos: 900000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 153
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 154
+      nanos: 200000000
+    }
+    word: "weak"
+  }
+  words {
+    start_time {
+      seconds: 154
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 154
+      nanos: 200000000
+    }
+    word: "bladder"
+  }
+  words {
+    start_time {
+      seconds: 154
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 156
+      nanos: 600000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 156
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 156
+      nanos: 600000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 156
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 156
+      nanos: 800000000
+    }
+    word: "knew"
+  }
+  words {
+    start_time {
+      seconds: 156
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 156
+      nanos: 900000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 156
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 157
+      nanos: 300000000
+    }
+    word: "lines"
+  }
+  words {
+    start_time {
+      seconds: 157
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 157
+      nanos: 400000000
+    }
+    word: "for"
+  }
+  words {
+    start_time {
+      seconds: 157
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 157
+      nanos: 600000000
+    }
+    word: "that"
+  }
+  words {
+    start_time {
+      seconds: 157
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 158
+    }
+    word: "bathroom."
+  }
+  words {
+    start_time {
+      seconds: 158
+    }
+    end_time {
+      seconds: 158
+      nanos: 400000000
+    }
+    word: "We\'re"
+  }
+  words {
+    start_time {
+      seconds: 158
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 158
+      nanos: 600000000
+    }
+    word: "going"
+  }
+  words {
+    start_time {
+      seconds: 158
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 158
+      nanos: 700000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 158
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 158
+      nanos: 800000000
+    }
+    word: "be"
+  }
+  words {
+    start_time {
+      seconds: 158
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 159
+      nanos: 200000000
+    }
+    word: "long"
+  }
+  words {
+    start_time {
+      seconds: 159
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 160
+      nanos: 500000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 160
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 160
+      nanos: 800000000
+    }
+    word: "they"
+  }
+  words {
+    start_time {
+      seconds: 160
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 161
+    }
+    word: "were"
+  }
+  words {
+    start_time {
+      seconds: 161
+    }
+    end_time {
+      seconds: 162
+      nanos: 500000000
+    }
+    word: "they"
+  }
+  words {
+    start_time {
+      seconds: 162
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 162
+      nanos: 700000000
+    }
+    word: "said"
+  }
+  words {
+    start_time {
+      seconds: 162
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 162
+      nanos: 800000000
+    }
+    word: "they"
+  }
+  words {
+    start_time {
+      seconds: 162
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 163
+    }
+    word: "were"
+  }
+  words {
+    start_time {
+      seconds: 163
+    }
+    end_time {
+      seconds: 163
+      nanos: 600000000
+    }
+    word: "historically"
+  }
+  words {
+    start_time {
+      seconds: 163
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 164
+      nanos: 400000000
+    }
+    word: "long"
+  }
+  words {
+    start_time {
+      seconds: 164
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 165
+      nanos: 100000000
+    }
+    word: "lines."
+  }
+}
+
+alternatives {
+  transcript: " Alvin looking back in history a picture of me just waiting in line for the bathroom."
+  confidence: 0.916288673878
+  words {
+    start_time {
+      seconds: 171
+    }
+    end_time {
+      seconds: 171
+      nanos: 700000000
+    }
+    word: "Alvin"
+  }
+  words {
+    start_time {
+      seconds: 171
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 172
+    }
+    word: "looking"
+  }
+  words {
+    start_time {
+      seconds: 172
+    }
+    end_time {
+      seconds: 172
+      nanos: 200000000
+    }
+    word: "back"
+  }
+  words {
+    start_time {
+      seconds: 172
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 172
+      nanos: 300000000
+    }
+    word: "in"
+  }
+  words {
+    start_time {
+      seconds: 172
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 172
+      nanos: 600000000
+    }
+    word: "history"
+  }
+  words {
+    start_time {
+      seconds: 172
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 172
+      nanos: 800000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 172
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 173
+      nanos: 100000000
+    }
+    word: "picture"
+  }
+  words {
+    start_time {
+      seconds: 173
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 173
+      nanos: 200000000
+    }
+    word: "of"
+  }
+  words {
+    start_time {
+      seconds: 173
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 173
+      nanos: 300000000
+    }
+    word: "me"
+  }
+  words {
+    start_time {
+      seconds: 173
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 173
+      nanos: 400000000
+    }
+    word: "just"
+  }
+  words {
+    start_time {
+      seconds: 173
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 174
+      nanos: 300000000
+    }
+    word: "waiting"
+  }
+  words {
+    start_time {
+      seconds: 174
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 174
+      nanos: 400000000
+    }
+    word: "in"
+  }
+  words {
+    start_time {
+      seconds: 174
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 174
+      nanos: 600000000
+    }
+    word: "line"
+  }
+  words {
+    start_time {
+      seconds: 174
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 174
+      nanos: 700000000
+    }
+    word: "for"
+  }
+  words {
+    start_time {
+      seconds: 174
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 174
+      nanos: 800000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 174
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 175
+    }
+    word: "bathroom."
+  }
+}
+
+alternatives {
+  transcript: " that\'s not what I want and I are straddling a bush cuz I couldn\'t make it just looking at my girlfriend like"
+  confidence: 0.922029554844
+  words {
+    start_time {
+      seconds: 176
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 177
+      nanos: 200000000
+    }
+    word: "that\'s"
+  }
+  words {
+    start_time {
+      seconds: 177
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 177
+      nanos: 300000000
+    }
+    word: "not"
+  }
+  words {
+    start_time {
+      seconds: 177
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 177
+      nanos: 500000000
+    }
+    word: "what"
+  }
+  words {
+    start_time {
+      seconds: 177
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 177
+      nanos: 600000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 177
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 178
+      nanos: 200000000
+    }
+    word: "want"
+  }
+  words {
+    start_time {
+      seconds: 178
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 178
+      nanos: 400000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 178
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 178
+      nanos: 500000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 178
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 178
+      nanos: 800000000
+    }
+    word: "are"
+  }
+  words {
+    start_time {
+      seconds: 178
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 179
+      nanos: 500000000
+    }
+    word: "straddling"
+  }
+  words {
+    start_time {
+      seconds: 179
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 179
+      nanos: 600000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 179
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 179
+      nanos: 900000000
+    }
+    word: "bush"
+  }
+  words {
+    start_time {
+      seconds: 179
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 180
+      nanos: 100000000
+    }
+    word: "cuz"
+  }
+  words {
+    start_time {
+      seconds: 180
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 180
+      nanos: 100000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 180
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 180
+      nanos: 500000000
+    }
+    word: "couldn\'t"
+  }
+  words {
+    start_time {
+      seconds: 180
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 180
+      nanos: 500000000
+    }
+    word: "make"
+  }
+  words {
+    start_time {
+      seconds: 180
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 180
+      nanos: 700000000
+    }
+    word: "it"
+  }
+  words {
+    start_time {
+      seconds: 180
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 181
+      nanos: 900000000
+    }
+    word: "just"
+  }
+  words {
+    start_time {
+      seconds: 181
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 182
+      nanos: 300000000
+    }
+    word: "looking"
+  }
+  words {
+    start_time {
+      seconds: 182
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 182
+      nanos: 400000000
+    }
+    word: "at"
+  }
+  words {
+    start_time {
+      seconds: 182
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 182
+      nanos: 600000000
+    }
+    word: "my"
+  }
+  words {
+    start_time {
+      seconds: 182
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 183
+    }
+    word: "girlfriend"
+  }
+  words {
+    start_time {
+      seconds: 183
+    }
+    end_time {
+      seconds: 183
+      nanos: 200000000
+    }
+    word: "like"
+  }
+}
+
+alternatives {
+  transcript: " and I\'m still paying it."
+  confidence: 0.884114682674
+  words {
+    start_time {
+      seconds: 187
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 188
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 188
+    }
+    end_time {
+      seconds: 188
+      nanos: 100000000
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 188
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 188
+      nanos: 400000000
+    }
+    word: "still"
+  }
+  words {
+    start_time {
+      seconds: 188
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 188
+      nanos: 600000000
+    }
+    word: "paying"
+  }
+  words {
+    start_time {
+      seconds: 188
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 188
+      nanos: 800000000
+    }
+    word: "it."
+  }
+}
+
+alternatives {
+  transcript: " I drink a lot of water."
+  confidence: 0.987514436245
+  words {
+    start_time {
+      seconds: 189
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 190
+      nanos: 200000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 190
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 190
+      nanos: 400000000
+    }
+    word: "drink"
+  }
+  words {
+    start_time {
+      seconds: 190
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 190
+      nanos: 500000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 190
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 190
+      nanos: 600000000
+    }
+    word: "lot"
+  }
+  words {
+    start_time {
+      seconds: 190
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 190
+      nanos: 700000000
+    }
+    word: "of"
+  }
+  words {
+    start_time {
+      seconds: 190
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 190
+      nanos: 800000000
+    }
+    word: "water."
+  }
+}
+
+alternatives {
+  transcript: " I\'m just saying I could do more and I realize that I you know, I don\'t do enough and I think it\'s Age 2. I\'m older than I look, you know, I\'m black so you\'ll never know."
+  confidence: 0.939004123211
+  words {
+    start_time {
+      seconds: 192
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 192
+      nanos: 500000000
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 192
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 192
+      nanos: 600000000
+    }
+    word: "just"
+  }
+  words {
+    start_time {
+      seconds: 192
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 192
+      nanos: 800000000
+    }
+    word: "saying"
+  }
+  words {
+    start_time {
+      seconds: 192
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 192
+      nanos: 900000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 192
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 193
+    }
+    word: "could"
+  }
+  words {
+    start_time {
+      seconds: 193
+    }
+    end_time {
+      seconds: 193
+      nanos: 200000000
+    }
+    word: "do"
+  }
+  words {
+    start_time {
+      seconds: 193
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 193
+      nanos: 400000000
+    }
+    word: "more"
+  }
+  words {
+    start_time {
+      seconds: 193
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 193
+      nanos: 700000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 193
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 193
+      nanos: 800000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 193
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 194
+      nanos: 300000000
+    }
+    word: "realize"
+  }
+  words {
+    start_time {
+      seconds: 194
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 194
+      nanos: 400000000
+    }
+    word: "that"
+  }
+  words {
+    start_time {
+      seconds: 194
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 194
+      nanos: 600000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 194
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 194
+      nanos: 800000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 194
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 194
+      nanos: 900000000
+    }
+    word: "know,"
+  }
+  words {
+    start_time {
+      seconds: 194
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 194
+      nanos: 900000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 194
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 195
+    }
+    word: "don\'t"
+  }
+  words {
+    start_time {
+      seconds: 195
+    }
+    end_time {
+      seconds: 195
+      nanos: 200000000
+    }
+    word: "do"
+  }
+  words {
+    start_time {
+      seconds: 195
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 195
+      nanos: 400000000
+    }
+    word: "enough"
+  }
+  words {
+    start_time {
+      seconds: 195
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 195
+      nanos: 800000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 195
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 195
+      nanos: 800000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 195
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 196
+    }
+    word: "think"
+  }
+  words {
+    start_time {
+      seconds: 196
+    }
+    end_time {
+      seconds: 196
+      nanos: 200000000
+    }
+    word: "it\'s"
+  }
+  words {
+    start_time {
+      seconds: 196
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 196
+      nanos: 500000000
+    }
+    word: "Age"
+  }
+  words {
+    start_time {
+      seconds: 196
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 196
+      nanos: 800000000
+    }
+    word: "2."
+  }
+  words {
+    start_time {
+      seconds: 196
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 197
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 197
+    }
+    end_time {
+      seconds: 197
+      nanos: 400000000
+    }
+    word: "older"
+  }
+  words {
+    start_time {
+      seconds: 197
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 197
+      nanos: 600000000
+    }
+    word: "than"
+  }
+  words {
+    start_time {
+      seconds: 197
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 197
+      nanos: 700000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 197
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 197
+      nanos: 700000000
+    }
+    word: "look,"
+  }
+  words {
+    start_time {
+      seconds: 197
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 198
+      nanos: 100000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 198
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 198
+      nanos: 200000000
+    }
+    word: "know,"
+  }
+  words {
+    start_time {
+      seconds: 198
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 198
+      nanos: 400000000
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 198
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 198
+      nanos: 600000000
+    }
+    word: "black"
+  }
+  words {
+    start_time {
+      seconds: 198
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 198
+      nanos: 900000000
+    }
+    word: "so"
+  }
+  words {
+    start_time {
+      seconds: 198
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 199
+      nanos: 100000000
+    }
+    word: "you\'ll"
+  }
+  words {
+    start_time {
+      seconds: 199
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 199
+      nanos: 200000000
+    }
+    word: "never"
+  }
+  words {
+    start_time {
+      seconds: 199
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 199
+      nanos: 500000000
+    }
+    word: "know."
+  }
+}
+
+alternatives {
+  transcript: " What is happening at setting in will you say the wrong things? You don\'t know stuff?"
+  confidence: 0.922382771969
+  words {
+    start_time {
+      seconds: 201
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 201
+      nanos: 500000000
+    }
+    word: "What"
+  }
+  words {
+    start_time {
+      seconds: 201
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 201
+      nanos: 600000000
+    }
+    word: "is"
+  }
+  words {
+    start_time {
+      seconds: 201
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 202
+      nanos: 100000000
+    }
+    word: "happening"
+  }
+  words {
+    start_time {
+      seconds: 202
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 202
+      nanos: 300000000
+    }
+    word: "at"
+  }
+  words {
+    start_time {
+      seconds: 202
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 202
+      nanos: 600000000
+    }
+    word: "setting"
+  }
+  words {
+    start_time {
+      seconds: 202
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 202
+      nanos: 900000000
+    }
+    word: "in"
+  }
+  words {
+    start_time {
+      seconds: 202
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 203
+    }
+    word: "will"
+  }
+  words {
+    start_time {
+      seconds: 203
+    }
+    end_time {
+      seconds: 203
+      nanos: 100000000
+    }
+    word: "you"
+  }
+  words {
+    start_time {
+      seconds: 203
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 203
+      nanos: 300000000
+    }
+    word: "say"
+  }
+  words {
+    start_time {
+      seconds: 203
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 203
+      nanos: 400000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 203
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 203
+      nanos: 600000000
+    }
+    word: "wrong"
+  }
+  words {
+    start_time {
+      seconds: 203
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 204
+      nanos: 200000000
+    }
+    word: "things?"
+  }
+  words {
+    start_time {
+      seconds: 204
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 204
+      nanos: 300000000
+    }
+    word: "You"
+  }
+  words {
+    start_time {
+      seconds: 204
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 204
+      nanos: 500000000
+    }
+    word: "don\'t"
+  }
+  words {
+    start_time {
+      seconds: 204
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 204
+      nanos: 800000000
+    }
+    word: "know"
+  }
+  words {
+    start_time {
+      seconds: 204
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 205
+      nanos: 100000000
+    }
+    word: "stuff?"
+  }
+}
+
+alternatives {
+  transcript: " I\'m not as woke."
+  confidence: 0.972747981548
+  words {
+    start_time {
+      seconds: 206
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 207
+    }
+    word: "I\'m"
+  }
+  words {
+    start_time {
+      seconds: 207
+    }
+    end_time {
+      seconds: 207
+      nanos: 100000000
+    }
+    word: "not"
+  }
+  words {
+    start_time {
+      seconds: 207
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 207
+      nanos: 300000000
+    }
+    word: "as"
+  }
+  words {
+    start_time {
+      seconds: 207
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 207
+      nanos: 900000000
+    }
+    word: "woke."
+  }
+}
+
+alternatives {
+  transcript: " As I should be and it\'s embarrassing like I\'ve been messing up on my pronouns lately cuz I met someone who is not a guy or a girl they were they which is how they wanted to be referred to and that\'s important like I care about that. It\'s just it\'s new to me and in a sentence."
+  confidence: 0.962379336357
+  words {
+    start_time {
+      seconds: 208
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 209
+      nanos: 900000000
+    }
+    word: "As"
+  }
+  words {
+    start_time {
+      seconds: 209
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 210
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 210
+    }
+    end_time {
+      seconds: 210
+      nanos: 100000000
+    }
+    word: "should"
+  }
+  words {
+    start_time {
+      seconds: 210
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 210
+      nanos: 500000000
+    }
+    word: "be"
+  }
+  words {
+    start_time {
+      seconds: 210
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 210
+      nanos: 900000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 210
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 212
+    }
+    word: "it\'s"
+  }
+  words {
+    start_time {
+      seconds: 212
+    }
+    end_time {
+      seconds: 212
+      nanos: 300000000
+    }
+    word: "embarrassing"
+  }
+  words {
+    start_time {
+      seconds: 212
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 213
+      nanos: 700000000
+    }
+    word: "like"
+  }
+  words {
+    start_time {
+      seconds: 213
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 213
+      nanos: 700000000
+    }
+    word: "I\'ve"
+  }
+  words {
+    start_time {
+      seconds: 213
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 213
+      nanos: 900000000
+    }
+    word: "been"
+  }
+  words {
+    start_time {
+      seconds: 213
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 214
+      nanos: 200000000
+    }
+    word: "messing"
+  }
+  words {
+    start_time {
+      seconds: 214
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 214
+      nanos: 300000000
+    }
+    word: "up"
+  }
+  words {
+    start_time {
+      seconds: 214
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 214
+      nanos: 400000000
+    }
+    word: "on"
+  }
+  words {
+    start_time {
+      seconds: 214
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 214
+      nanos: 600000000
+    }
+    word: "my"
+  }
+  words {
+    start_time {
+      seconds: 214
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 215
+    }
+    word: "pronouns"
+  }
+  words {
+    start_time {
+      seconds: 215
+    }
+    end_time {
+      seconds: 215
+      nanos: 700000000
+    }
+    word: "lately"
+  }
+  words {
+    start_time {
+      seconds: 215
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 216
+      nanos: 800000000
+    }
+    word: "cuz"
+  }
+  words {
+    start_time {
+      seconds: 216
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 216
+      nanos: 900000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 216
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 217
+      nanos: 100000000
+    }
+    word: "met"
+  }
+  words {
+    start_time {
+      seconds: 217
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 217
+      nanos: 300000000
+    }
+    word: "someone"
+  }
+  words {
+    start_time {
+      seconds: 217
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 217
+      nanos: 600000000
+    }
+    word: "who"
+  }
+  words {
+    start_time {
+      seconds: 217
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 217
+      nanos: 700000000
+    }
+    word: "is"
+  }
+  words {
+    start_time {
+      seconds: 217
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 217
+      nanos: 900000000
+    }
+    word: "not"
+  }
+  words {
+    start_time {
+      seconds: 217
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 217
+      nanos: 900000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 217
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 218
+      nanos: 100000000
+    }
+    word: "guy"
+  }
+  words {
+    start_time {
+      seconds: 218
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 218
+      nanos: 900000000
+    }
+    word: "or"
+  }
+  words {
+    start_time {
+      seconds: 218
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 219
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 219
+    }
+    end_time {
+      seconds: 219
+      nanos: 100000000
+    }
+    word: "girl"
+  }
+  words {
+    start_time {
+      seconds: 219
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 220
+      nanos: 600000000
+    }
+    word: "they"
+  }
+  words {
+    start_time {
+      seconds: 220
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 220
+      nanos: 700000000
+    }
+    word: "were"
+  }
+  words {
+    start_time {
+      seconds: 220
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 221
+      nanos: 100000000
+    }
+    word: "they"
+  }
+  words {
+    start_time {
+      seconds: 221
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 222
+      nanos: 400000000
+    }
+    word: "which"
+  }
+  words {
+    start_time {
+      seconds: 222
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 222
+      nanos: 600000000
+    }
+    word: "is"
+  }
+  words {
+    start_time {
+      seconds: 222
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 222
+      nanos: 800000000
+    }
+    word: "how"
+  }
+  words {
+    start_time {
+      seconds: 222
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 222
+      nanos: 800000000
+    }
+    word: "they"
+  }
+  words {
+    start_time {
+      seconds: 222
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 223
+      nanos: 200000000
+    }
+    word: "wanted"
+  }
+  words {
+    start_time {
+      seconds: 223
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 223
+      nanos: 300000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 223
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 223
+      nanos: 400000000
+    }
+    word: "be"
+  }
+  words {
+    start_time {
+      seconds: 223
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 223
+      nanos: 900000000
+    }
+    word: "referred"
+  }
+  words {
+    start_time {
+      seconds: 223
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 224
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 224
+    }
+    end_time {
+      seconds: 224
+      nanos: 300000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 224
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 224
+      nanos: 600000000
+    }
+    word: "that\'s"
+  }
+  words {
+    start_time {
+      seconds: 224
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 224
+      nanos: 800000000
+    }
+    word: "important"
+  }
+  words {
+    start_time {
+      seconds: 224
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 225
+      nanos: 300000000
+    }
+    word: "like"
+  }
+  words {
+    start_time {
+      seconds: 225
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 225
+      nanos: 500000000
+    }
+    word: "I"
+  }
+  words {
+    start_time {
+      seconds: 225
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 225
+      nanos: 800000000
+    }
+    word: "care"
+  }
+  words {
+    start_time {
+      seconds: 225
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 225
+      nanos: 900000000
+    }
+    word: "about"
+  }
+  words {
+    start_time {
+      seconds: 225
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 226
+      nanos: 300000000
+    }
+    word: "that."
+  }
+  words {
+    start_time {
+      seconds: 226
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 226
+      nanos: 700000000
+    }
+    word: "It\'s"
+  }
+  words {
+    start_time {
+      seconds: 226
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 226
+      nanos: 800000000
+    }
+    word: "just"
+  }
+  words {
+    start_time {
+      seconds: 226
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 227
+      nanos: 700000000
+    }
+    word: "it\'s"
+  }
+  words {
+    start_time {
+      seconds: 227
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 227
+      nanos: 900000000
+    }
+    word: "new"
+  }
+  words {
+    start_time {
+      seconds: 227
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 228
+      nanos: 100000000
+    }
+    word: "to"
+  }
+  words {
+    start_time {
+      seconds: 228
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 228
+      nanos: 200000000
+    }
+    word: "me"
+  }
+  words {
+    start_time {
+      seconds: 228
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 229
+      nanos: 600000000
+    }
+    word: "and"
+  }
+  words {
+    start_time {
+      seconds: 229
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 229
+      nanos: 700000000
+    }
+    word: "in"
+  }
+  words {
+    start_time {
+      seconds: 229
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 229
+      nanos: 800000000
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 229
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 230
+      nanos: 600000000
+    }
+    word: "sentence."
+  }
+}
+
+alternatives {
+  transcript: " structurally"
+  confidence: 0.941185057163
+  words {
+    start_time {
+      seconds: 232
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 233
+      nanos: 300000000
+    }
+    word: "structurally"
+  }
+}
+
+alternatives {
+  transcript: " It makes me sound like a runaway slave."
+  confidence: 0.974791407585
+  words {
+    start_time {
+      seconds: 235
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 235
+      nanos: 800000000
+    }
+    word: "It"
+  }
+  words {
+    start_time {
+      seconds: 235
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 236
+      nanos: 100000000
+    }
+    word: "makes"
+  }
+  words {
+    start_time {
+      seconds: 236
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 236
+      nanos: 300000000
+    }
+    word: "me"
+  }
+  words {
+    start_time {
+      seconds: 236
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 236
+      nanos: 600000000
+    }
+    word: "sound"
+  }
+  words {
+    start_time {
+      seconds: 236
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 236
+      nanos: 800000000
+    }
+    word: "like"
+  }
+  words {
+    start_time {
+      seconds: 236
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 237
+    }
+    word: "a"
+  }
+  words {
+    start_time {
+      seconds: 237
+    }
+    end_time {
+      seconds: 237
+      nanos: 300000000
+    }
+    word: "runaway"
+  }
+  words {
+    start_time {
+      seconds: 237
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 237
+      nanos: 500000000
+    }
+    word: "slave."
+  }
+}
+
+alternatives {
+  transcript: " Where they at?"
+  confidence: 0.960354864597
+  words {
+    start_time {
+      seconds: 245
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 246
+      nanos: 600000000
+    }
+    word: "Where"
+  }
+  words {
+    start_time {
+      seconds: 246
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 246
+      nanos: 700000000
+    }
+    word: "they"
+  }
+  words {
+    start_time {
+      seconds: 246
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 246
+      nanos: 800000000
+    }
+    word: "at?"
+  }
+}
+
+alternatives {
+  transcript: " He\'s coming."
+  confidence: 0.780047595501
+  words {
+    start_time {
+      seconds: 248
+      nanos: 700000000
+    }
+    end_time {
+      seconds: 249
+      nanos: 100000000
+    }
+    word: "He\'s"
+  }
+  words {
+    start_time {
+      seconds: 249
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 249
+      nanos: 500000000
+    }
+    word: "coming."
+  }
+}
+
+alternatives {
+  transcript: " They down by the river."
+  confidence: 0.894107997417
+  words {
+    start_time {
+      seconds: 254
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 254
+      nanos: 600000000
+    }
+    word: "They"
+  }
+  words {
+    start_time {
+      seconds: 254
+      nanos: 600000000
+    }
+    end_time {
+      seconds: 254
+      nanos: 800000000
+    }
+    word: "down"
+  }
+  words {
+    start_time {
+      seconds: 254
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 255
+    }
+    word: "by"
+  }
+  words {
+    start_time {
+      seconds: 255
+    }
+    end_time {
+      seconds: 255
+      nanos: 100000000
+    }
+    word: "the"
+  }
+  words {
+    start_time {
+      seconds: 255
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 255
+      nanos: 400000000
+    }
+    word: "river."
+  }
+}
+
+alternatives {
+  transcript: " They got me mad at that show."
+  confidence: 0.866393327713
+  words {
+    start_time {
+      seconds: 265
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 266
+      nanos: 200000000
+    }
+    word: "They"
+  }
+  words {
+    start_time {
+      seconds: 266
+      nanos: 200000000
+    }
+    end_time {
+      seconds: 266
+      nanos: 400000000
+    }
+    word: "got"
+  }
+  words {
+    start_time {
+      seconds: 266
+      nanos: 400000000
+    }
+    end_time {
+      seconds: 266
+      nanos: 500000000
+    }
+    word: "me"
+  }
+  words {
+    start_time {
+      seconds: 266
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 266
+      nanos: 800000000
+    }
+    word: "mad"
+  }
+  words {
+    start_time {
+      seconds: 266
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 266
+      nanos: 900000000
+    }
+    word: "at"
+  }
+  words {
+    start_time {
+      seconds: 266
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 267
+      nanos: 100000000
+    }
+    word: "that"
+  }
+  words {
+    start_time {
+      seconds: 267
+      nanos: 100000000
+    }
+    end_time {
+      seconds: 267
+      nanos: 300000000
+    }
+    word: "show."
+  }
+}
+
+alternatives {
+  transcript: " Thank you. Thank you."
+  confidence: 0.978194832802
+  words {
+    start_time {
+      seconds: 269
+      nanos: 300000000
+    }
+    end_time {
+      seconds: 269
+      nanos: 900000000
+    }
+    word: "Thank"
+  }
+  words {
+    start_time {
+      seconds: 269
+      nanos: 900000000
+    }
+    end_time {
+      seconds: 270
+    }
+    word: "you."
+  }
+  words {
+    start_time {
+      seconds: 270
+    }
+    end_time {
+      seconds: 270
+      nanos: 500000000
+    }
+    word: "Thank"
+  }
+  words {
+    start_time {
+      seconds: 270
+      nanos: 500000000
+    }
+    end_time {
+      seconds: 270
+      nanos: 600000000
+    }
+    word: "you."
+  }
+}
+
